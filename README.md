@@ -2,7 +2,7 @@
 **CHOKKAM-CHANDU/chokkam-chandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<h1 align="center">Hi 👋, I'm CHOKKAN CHANDU</h1>
+<h1 align="center">Hi 👋, I'm CHOKKAM CHANDU</h1>
 <h3 align="center">A passionate frontend developer from India with skills in machine learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chokkam-chandu&label=Profile%20views&color=0e75b6&style=flat" alt="chokkam-chandu" /> </p>
